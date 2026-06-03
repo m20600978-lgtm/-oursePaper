@@ -1,0 +1,10 @@
+C:\Users\User\Desktop\Курсовая работа\Курсовая(интерфейс)\Курсовая(интерфейс)\bin\Debug\Курсовая(интерфейс).exe.config
+C:\Users\User\Desktop\Курсовая работа\Курсовая(интерфейс)\Курсовая(интерфейс)\bin\Debug\Курсовая(интерфейс).exe
+C:\Users\User\Desktop\Курсовая работа\Курсовая(интерфейс)\Курсовая(интерфейс)\bin\Debug\Курсовая(интерфейс).pdb
+C:\Users\User\Desktop\Курсовая работа\Курсовая(интерфейс)\Курсовая(интерфейс)\obj\Debug\Курсовая(интерфейс).csproj.AssemblyReference.cache
+C:\Users\User\Desktop\Курсовая работа\Курсовая(интерфейс)\Курсовая(интерфейс)\obj\Debug\Курсовая_интерфейс_.Form1.resources
+C:\Users\User\Desktop\Курсовая работа\Курсовая(интерфейс)\Курсовая(интерфейс)\obj\Debug\Курсовая_интерфейс_.Properties.Resources.resources
+C:\Users\User\Desktop\Курсовая работа\Курсовая(интерфейс)\Курсовая(интерфейс)\obj\Debug\Курсовая(интерфейс).csproj.GenerateResource.cache
+C:\Users\User\Desktop\Курсовая работа\Курсовая(интерфейс)\Курсовая(интерфейс)\obj\Debug\Курсовая(интерфейс).csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Курсовая работа\Курсовая(интерфейс)\Курсовая(интерфейс)\obj\Debug\Курсовая(интерфейс).exe
+C:\Users\User\Desktop\Курсовая работа\Курсовая(интерфейс)\Курсовая(интерфейс)\obj\Debug\Курсовая(интерфейс).pdb
